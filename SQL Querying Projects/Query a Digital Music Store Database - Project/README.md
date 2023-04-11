@@ -7,6 +7,7 @@
 - What Albums include Tracks with length above AVG?
 
 Data retrieved from these queries is then exported to **CSV** format and opened in **Excel** to generate summary visualizations reported in the `report.pdf` with some analysis statements.
+
 ---
 `sub_queries.txt` file includes more complex sub-queries to answer question like:
 - Who is the customer with highest spend amount on top artist's albums?
