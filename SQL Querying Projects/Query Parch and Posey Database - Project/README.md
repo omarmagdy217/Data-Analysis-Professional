@@ -4,4 +4,5 @@
 - How many Sales Representatives are there per Region?
 - Which Accounts had the largest smallest order?
 - What region had the highest total order amount?
+
 Data retrieved from these queries is then exported to **CSV** and opened in **Excel** to generate summary visualizations reported in the `report.pdf` with some analysis statements.
